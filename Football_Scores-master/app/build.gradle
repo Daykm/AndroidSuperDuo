@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "barqsoft.footballscores"
-        minSdkVersion 10
-        targetSdkVersion 22
+        minSdkVersion 11
+        targetSdkVersion 23
         versionCode 1
         versionName "1.0"
     }
